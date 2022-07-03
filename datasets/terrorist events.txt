@@ -1,0 +1,175 @@
+Year 2008 - 13 clusters
+0 - philippines - 271
+1 - south india sri lanka - 94
+2 - iraq turkey georgia - 1273
+3 - afghanistan pakistan - 995
+4 - east india nepal bangladesh - 532
+5 - isreal area - 245
+6 - north malaysia - 176
+7 - south nigeria - 63
+8 - somalia area - 148
+9 - northern algeria - 96
+10 - serbia macedonia greece - 77
+11 - columbia - 130
+12 - central west india - 50
+
+year 2009 - 10 clusters
+0 - iraq georgia turkey - 1273
+1 - isreal area - 63
+2 - east india nepal bangladesh - 666
+3 - afghanistan pakistan - 1150
+4 - philippines -226
+5 - north malaysia - 289
+6 - serbia macedonia greece - 121
+7 - somolia area - 98
+8 - columbia 137
+9 - northern algeria - 103
+
+year 2010 - 11 clusters
+0 - afghanistan pakistan - 1214
+1 - iraq turkey georgia - 1401
+2 - somalia - 115
+3 - northern ireland - 59
+4 - norther algeria - 96
+5 - east india nepal bangladesh - 690
+6 - columbia - 132
+7 - northern malaysia - 171
+8 - philippines - 201
+9 - yeman northern somalia - 113
+10 - myanmar thailand - 88
+
+Year 2011 - 9
+0 - isreal syria iraq turkey georgia - 1637
+1 - north nigeria 145
+2 - east india nepal bangladesh 644
+3 - afghanistan pakistan 1393
+4 - somalia area 202
+5 - columbia 82
+6 - philippinies 133
+7 - north malaysia 178
+8 - yemen northern somalia 116
+
+year 2012 - 11 clusters
+0 - afghanistan pakistan 3111
+1 - yemen somalia 660
+2 - isreal syria iraq turkey georgia - 2010
+3 - east india nepal bangladesh 577
+4 - nigeria 578
+5 - northern malaysia 281
+6 - philippines 243
+7 - ireland 77
+8 - africa islands 52
+9 - columbia 87
+10 - italy area 68
+
+year 2013 - 13 clusters
+0 - afghanistan pakistan 3668
+1 - egypt isreal syria turkey georgia 3733
+2 - nigeria 281
+3 - philippines 642
+4 - columbia 142
+5 - somalia area 393
+6 - yemen north somalia 406
+7 - tunisia libyia greece 362
+8 - east india nepal bangladesh 827
+9 - northern malaysia 469
+10 - ireland uk 160
+11 - africa islands 107
+12 - eastern saudi arabia 53
+
+thailand added to northern malaysia 
+isreal area added to egypt isreal syria iraq turkey georgia
+north libya tunisia added to tunisia libya serbia macedonia greece
+
+year 2018 - 14 clusters
+0 - egypt syria turkey iraq georgia 1868
+1 - afghanistan pakistan 2557
+2 - nigeria 848
+3 - philippines 600
+4 - somalia area 537
+5 - yemen north somalia saudi arabia 397
+6 - east india nepal bangladesh 591
+7 - mali burkina faso 205
+8 - north libya tunisia 121
+9 - north malaysia 184
+10 - drc sudan uganda 167
+11 - ireland uk 104
+12 - columbia 216
+13 - north east mozambique 58
+
+year 2017 - 16 clusters
+0 - afghanistan pakistan east india nepal bangladesh 3368
+1 - southwest sudan 109
+2 - egypt syria turkey georgia 3177
+3 - somalia area 641
+4 - yemen north somalia saudi arabia 273
+5 - drc sudan uganda 158
+6 - mali 163
+7 - philippines 687
+8 - north libya 187
+9 - nigeria 577
+10 - north malaysia 179
+11 - ireland uk 137
+12 - columbia 103
+13 - serbia macedonia greece 55
+XXXX 14 - west turkey 15 XXXX not enough memebers
+15 - south india sri lanka 57
+
+*at 3.7 eps afghan pakistan 2299 east india is 1052
+
+year 2016 -17 clusters
+0 - egypt syraia turkey georgia 4892
+1 - afghanistan pakistan 2634
+2 - somalia area 617
+3 - philippines 639
+4 - yemen north somalia saudi arabia 579
+5 - drc sudan uganda 282
+6 - east india nepal bangladesh 977
+7 - north malaysia thailand 333
+8 - north libya 407
+9 - ireland uk 112
+10 - nigeria 548
+11 - mozambique 61
+12 - south west sudan 170
+13 - zero zero 55
+14 - mali 99
+15 - columbia 111
+16 - greece western turkey 65 *added to 0
+
+year 2015 - 17 clusters
+0 - egypt syria iraq turkey georgia 4480
+1 - north libya tunisia greece 593
+2 - afghanistan pakistan 3198
+3 - ukraine 600
+4 - nigeria 722
+5 - east india nepal bangladesh 1254
+6 - yemen north somalia 711
+7 - somalia 409
+8 - zero zero 98
+9 - philippines 719
+10 - drc sudan uganda 269
+11 - mali 97
+12 - ireland uk 143
+13 - south west sudan 126
+14 - columbia 131
+15 - north malaysia 278
+16 - germany 89
+
+year 2014 - 17 clusters
+0 - columbia 228
+1 - somalia 951
+2 - afghanistan pakistan 4032
+3 - egypt syria iraq turkey georgia 5200
+4 - east india nepal bangladesh 828
+5 - north malaysia 336
+6 - yemen north somalia 774
+7 - north libya tunisia 696
+8 - zero zero 100
+9 - philippines 595
+10 - nigeria 638
+11 - thailand 101
+12 - south west sudan 136
+13 - ireland uk 134
+14 - drc sudan uganda 98
+15 - mali 67
+16 - ukraine 868
